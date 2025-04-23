@@ -29,7 +29,8 @@ To run this CLI locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/prismryu/vehicle-builder.git
-   cd Develop
+   cd Vehicle-Builder
+
 
 2. Install dependencies:
 3. npm start
